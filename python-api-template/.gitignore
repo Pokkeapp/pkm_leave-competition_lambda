@@ -1,0 +1,20 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Docker files (si no quieres subir imágenes, pero normalmente sí subirás Dockerfile)
+*.docker
+
+# Otros archivos temporales
+*.tmp
